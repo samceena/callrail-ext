@@ -1,0 +1,40 @@
+{
+  "_from": "callrail-ext",
+  "_id": "callrail-ext@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-y1cWY28sleO/bCvvcQ4hgaccSVu1YZxuAt9y91httyCA0r2xMBaYv3bpuusF9TEiyaEFUsJRIvsKvn3g+9+Yjg==",
+  "_location": "/callrail-ext",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "callrail-ext",
+    "name": "callrail-ext",
+    "escapedName": "callrail-ext",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/callrail-ext/-/callrail-ext-1.2.0.tgz",
+  "_shasum": "4ee41d7d6508c6e5b527a3d4e5bc1504ef691a82",
+  "_spec": "callrail-ext",
+  "_where": "/Applications/XAMPP/xamppfiles/htdocs/callrail-ext",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "deprecated": false,
+  "description": "General utilies for callrail",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "callrail-ext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.0"
+}
