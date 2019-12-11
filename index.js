@@ -4,6 +4,7 @@ const AUTH_TOKEN = '';
 const BaseURL = 'https://api.callrail.com/v3/a';
 const companyURL = BaseURL+"/"+API_KEY+"/"+"companies.json";
 
+
 const options = {
   headers: { Authorization:'Token token=' +AUTH_TOKEN}
 }
@@ -19,6 +20,11 @@ function getCompanies(){
         return reject(axiosReject);
       })
   })
+}
+
+
+function getAllData(){
+  
 }
 
 
